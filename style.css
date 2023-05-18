@@ -386,7 +386,6 @@ button, .button {
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url(https://raw.githubusercontent.com/hzndr/pancake-house-website/main/img/logo_bg.png) no-repeat;
     opacity: 0.5;
     top: 186px;
 }
